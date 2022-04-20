@@ -1,5 +1,4 @@
 #Assignment Project 2:
-### members: Zhang Leyi, Jinqi, Bernadett  
 
 Consider the score matrix M for dna sequences
 
