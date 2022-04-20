@@ -1,4 +1,4 @@
-# Readme
+# Algo in Bioinfo
 
 ## Overview
 This is for 2022 AiB course in Birc.
