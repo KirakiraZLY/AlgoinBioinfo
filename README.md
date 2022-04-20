@@ -1,14 +1,10 @@
-# Project 3
+# Readme
 
 ## Overview
-The implementations are sp_exact_3 and sp_approx.   
-sp_exact_3.py computes the scores of 3 sequences in an exact way.   
-sp_approx.py computes scores in an appriximating way.   
-sp_msa.py computes multiple sequences in an exact way. However, due to the high time complexity, this may not be quite useful, but for fun.
+This is for 2022 AiB course in Birc.
 
-## How to Run
-> python Proj3.py -cmd -file   
-
-0 for msa   
-1 for sp_3   
-2 for approximate
+## Functions of Projects
+Project 1: Pairwise global alignment with linear gap cost   
+Project 2: global/local affine alignment   
+Project 3: 3 sequences exact matching / multi-sequences approximate matching / multi-sequences exact matching
+Project 4: Converting .newick format unrooted tree into rooted tree, and Day's algorithm 1985.
